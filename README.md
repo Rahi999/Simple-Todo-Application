@@ -19,3 +19,7 @@
   <li>Tasks Can Be Delete,</li>
   <li>Good Looking User-Interface</li>
 </ul>
+
+<h3>Contributor : </h3>
+<ul>  <li>Rahim Ansari(Individual)</li>
+</ul>
