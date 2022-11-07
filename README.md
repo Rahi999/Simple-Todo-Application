@@ -8,3 +8,14 @@
   <li>CSS,</li>
   <li>HTML</li>
 </ul>
+
+<h3>Features : </h3>
+<ul>
+  <li>Task Can Create Via Input Tag,</li>
+  <li>Many Tasks Can Be Created,</li>
+  <li>Submit Button For Adding,</li>
+  <li>Tasks Can Be Read After Creating,</li>
+  <li>Tasks Can Be Marked as Completed,</li>
+  <li>Tasks Can Be Delete,</li>
+  <li>Good Looking User-Interface</li>
+</ul>
