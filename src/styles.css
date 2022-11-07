@@ -1,0 +1,74 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    font-style: italic;
+  
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+      rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+      rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    font-style: italic;
+  }
+  .border1 {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    height: 40px;
+    font-size: 20px;
+    font-style: italic;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+      rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+      rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  }
+  button {
+    height: 20px;
+    margin-left: 20px;
+    font-style: italic;
+  }
+  .input {
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+    border: none;
+    background-color: #aaccd7;
+    font-style: italic;
+  }
+  .add {
+    height: 30px;
+    width: 80px;
+    border-radius: 8px;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+  }
+  .checkbox {
+    height: 30px;
+    width: 50px;
+    margin-top: -4px;
+    font-style: italic;
+  }
+  .delete {
+    margin-left: 40px;
+    height: 25px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    background-color: #71e6a5;
+    font-size: 20px;
+    font-weight: bold;
+    color: teal;
+    font-style: italic;
+  }
+  
