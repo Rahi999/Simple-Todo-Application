@@ -12,7 +12,7 @@ const TodoApp = () => {
   const deleteTodo = (value) => {
     setTodos(todos.filter((todo) => todo !== value));
   };
-
+  // Returning All The Components(Inputs,buttons and Data For Todo) into the one Component
   return (
     <div className="border">
       <TodoInput addTodo={addTodo} />
