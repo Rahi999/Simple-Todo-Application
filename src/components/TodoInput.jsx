@@ -15,7 +15,17 @@ const TodoInput = ({ addTodo }) => {
             setValue(e.target.value);
           }}
         />
-
+            <button
+          className="add"
+          disabled={!value}
+          onClick={() => {
+            console.log(value);
+            addTodo(value);
+            setValue("");
+          }}
+        >
+          +
+        </button>
         
       </form>
     </div>
